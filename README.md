@@ -1,2 +1,3 @@
 # Clasificador_flor_Iris
-Clasificador de una flor en función del tamaño del sépalo y pétalo que tiene
+
+Usando el Dataset adjunto y el notebook para poder crear un clasificador de una flor en función del tamaño del sépalo y pétalo que tiene con una precisión de accierto >90%.
